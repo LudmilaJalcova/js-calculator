@@ -1,3 +1,3 @@
 # js-calculator
 
-[web link](https://ludmilajalcova.github.io/js-calculator/)
+[Demo](https://ludmilajalcova.github.io/js-calculator)
